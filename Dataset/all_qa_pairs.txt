@@ -1,0 +1,1358 @@
+what does the symptoms on this leaf depict?	
+BlackSpot_disease
+whether the leaf symptoms belong to Canker or Greening?	
+Canker_disease
+Based on the image, can you identify if the leaf has greening disease or is it healthy?	
+Greening_disease
+Is this leaf healthy or not?	
+Yes_HealthyLeaf
+What type of citrus disease is evident in this image?	
+Melanose_disease
+Is the leaf in the image suffering from any kind of disease?	
+Yes_BlackSpot_disease
+what are the disease-related issues on this leaf?	
+Canker_disease
+which disease symptoms are found on this citrus leaf?	
+Greening_disease
+Based on the image, is the leaf healthy or showing signs of disease?	
+HealthyLeaf
+Is the leaf pictured here free from disease, or is there evidence of infection?	
+Melanose_disease
+Are there any abnormal spots or discolorations on this leaf indicating a disease?	
+Yes_BlackSpot_disease
+What type of citrus disease is evident in this image?	
+Canker_disease
+In relation to citrus diseases, what does this image portray?	
+Greening_disease
+Based on visual cues, what does this citrus leaf depicts ?	
+HealthyLeaf
+What citrus leaf disease type can be inferred from this picture?	
+Melanose_disease
+From the image, which disease affecting citrus leaves is being shown?	
+BlackSpot_disease
+Which specific disease of citrus leaves does this image correspond to?	
+Canker_disease
+What is the likely citrus disease represented in this image?	
+Greening_disease
+In terms of citrus leaf diseases, what does this image indicate?	
+HealthyLeaf
+Identify the citrus disease type visualized in this picture.	
+Melanose_disease
+From your knowledge of citrus diseases, what can you deduce from this image in terms of disease type?	
+BlackSpot_disease
+From the image, what specific disease affecting citrus leaves can you identify?	
+Canker_disease
+In the context of citrus leaf diseases, what does this image suggest about the type of disease present?	
+Greening_disease
+Which disease common to citrus leaves is being hinted at in this image?	
+HealthyLeaf
+By examining the image, what conclusion can you draw about the particular citrus leaf disease it illustrates?	
+Melanose_disease
+Do you notice any disease symptoms on this leaf?	
+Yes_BlackSpot_disease
+Is the leaf infected with a disease?	
+Yes_Canker_disease
+In the context of citrus leaf diseases, what is the most probable interpretation of this image?	
+Greening_disease
+Identify the citrus leaf disease based on the features visible in the image.	
+HealthyLeaf
+Which disease affecting citrus leaves is indicated by the image provided?	
+Melanose_disease
+Are there any disease-related marks on this leaf?	
+Yes_BlackSpot_disease
+Is the leaf's health compromised by a disease?	
+Yes_Canker_disease
+Can you see any signs of disease on this leaf?	
+Yes_Greening_disease
+Does this leaf have any visible disease symptoms?	
+No_HealthyLeaf
+What disease type is being depicted in the image of the citrus leaf?	
+Melanose_disease
+In terms of citrus leaf diseases, what does this image hint at?	
+BlackSpot_disease
+what can you infer about the disease in question from this image?	
+Canker_disease
+Describe the disease affecting the citrus leaf in the provided image.	
+Greening_disease
+Is the leaf's appearance affected by disease?	
+No_HealthyLeaf
+What conclusion can you draw about the health of the citrus plant from this image?	
+Melanose_disease
+What disease could be causing the visible abnormalities in this citrus leaf image?	
+BlackSpot_disease
+What type of disease might be affecting the citrus leaves as seen in the image?	
+Canker_disease
+Based on the image, what specific citrus leaf disease can you identify?	
+Greening_disease
+What inference can you make about the citrus plant's condition from this image of its leaves?	
+HealthyLeaf
+Is the leaf's abnormality a result of a disease?	
+Yes_Melanose_disease
+Is this leaf displaying signs of disease or damage?	
+Yes_BlackSpot_disease
+Is the leaf's mark attributed to a disease?	
+Yes_Canker_disease
+Can you confirm if this leaf is under the influence of a disease?	
+Yes_Greening_disease
+does this leaf have a disease?	
+No_HealthyLeaf
+Can you verify if this leaf is sick?	
+Yes_BlackSpot_disease
+What disease-related characteristics are evident in the image of the citrus leaf?	
+Canker_disease
+In terms of citrus health, what does this image reveal about the presence of disease?	
+Greening_disease
+Identify the citrus disease that aligns with the symptoms shown in the image.	
+HealthyLeaf
+What do you gather about the citrus leaf's health status from this image?	
+Melanose_disease
+Is this leaf not healthy because of a disease?	
+Yes_BlackSpot_disease
+From the visual cues in the image, which disease is affecting the citrus leaves?	
+Canker_disease
+What type of citrus leaf disease might this image help diagnose?	
+Greening_disease
+What insights can you draw about the health of the citrus plant from this leaf image?	
+HealthyLeaf
+Is this leaf's oddness caused by a disease?	
+Yes_Melanose_disease
+Is this leaf showing any signs of disease or harm?	
+Yes_BlackSpot_disease
+Is this leaf's mark caused by a disease?	
+Yes_Canker_disease
+Can you make sure if this leaf is affected by a disease?	
+Yes_Greening_disease
+Is this leaf's state getting worse because of a disease?	
+No_HealthyLeaf
+Which specific disease could be causing the observed issues in the citrus leaf?	
+BlackSpot_disease
+Describe the disease characteristics visible in the image of the citrus leaf.	
+Canker_disease
+What disease type is indicated by the abnormalities in this citrus leaf image?	
+Greening_disease
+Are there any clear signs of disease on this citrus leaf?	
+No_HealthyLeaf
+Using the picture, can you figure out if the leaf has a disease?	
+Yes_BlackSpot_disease
+Is the leaf in the picture not well from BlackSpot sickness?	
+No_Canker_disease
+Could you let me know if there's anything wrong with this leaf because of a disease?	
+Yes_Greening_disease
+Do you notice any signs of sickness on this citrus leaf in the picture?	
+No_HealthyLeaf
+Looking at the picture, is the leaf healthy or does it have signs of sickness?	
+Yes_Melanose_disease
+In the picture, is the leaf okay or does it look like it has an infection?	
+Yes_BlackSpot_disease
+Are there any strange spots or color changes on this leaf that might mean a disease?	
+Yes_Canker_disease
+Based on what you see, is this citrus leaf suffering from a Canker disease?	
+No_Greening_disease
+Can you figure out if the leaf in the picture is dealing with a disease?	
+Yes_HealthyLeaf
+what conclusions can you make about the potential disease affecting the citrus leaves in this image?	
+Melanose_disease
+In the context of citrus leaf diseases, how would you interpret the symptoms in this image?	
+BlackSpot_disease
+Is there any disease found on this leaf?	
+Yes_Canker_disease
+Does this leaf seem unhealthy due to a disease?	
+Yes_BlackSpot_disease
+Is this leaf healthy or not?	
+Yes_HealthyLeaf
+Is there any evidence of disease on this leaf?	
+Yes_BlackSpot_disease
+What do you gather about the underlying issue in the citrus plant from this leaf image?	
+Canker_disease
+Which disease of citrus leaves corresponds to the signs shown in the image?	
+Greening_disease
+Is this leaf's condition due to a disease?	
+No_HealthyLeaf
+Can you tell if a disease is harming this leaf?	
+Yes_BlackSpot_disease
+Is this leaf not well because of some disease?	
+Yes_Canker_disease
+What disease is seen in this citrus leaf image?	
+Greening_disease
+Is there any sign of disease on this leaf?	
+No_HealthyLeaf
+What disease might these visual characteristics indicate?	
+Melanose_disease
+Is this leaf dealing with a disease, according to you?	
+Yes_BlackSpot_disease
+What conclusions can you make from this image?	
+Canker_disease
+What disease is being indicated here?	
+Greening_disease
+Do you notice any disease-related issues on this leaf?	
+No_HealthyLeaf
+What disease is indicated by this image?	
+Melanose_disease
+What specific disease aligns with this image?	
+BlackSpot_disease
+What's your interpretation of this image?	
+Canker_disease
+What disease does this image suggest?	
+BlackSpot_disease
+Can you determine if this leaf is healthy?	
+No_Canker_disease
+Is this leaf's state a result of some disease?	
+Yes_Greening_disease
+Does this leaf seem to have caught a disease?	
+No_HealthyLeaf
+Can you see any disease symptoms on this leaf?	
+Yes_BlackSpot_disease
+Is the leaf's appearance changed due to a disease?	
+Yes_Canker_disease
+What insights can you gather from this image?	
+Greening_disease
+Which disease is likely affecting the plant?	
+HealthyLeaf
+What does this image provide clues about?	
+Melanose_disease
+Does this leaf have any visible disease symptoms?	
+Yes_BlackSpot_disease
+Can you find out if this leaf's issue is a disease?	
+Yes_Canker_disease
+What can you deduce about the disease from this image?	
+Greening_disease
+What conclusions can you draw about this disease?	
+BlackSpot_disease
+Is the leaf's blemish connected to a disease?	
+Yes_BlackSpot_disease
+What disease can be inferred from this picture?	
+BlackSpot_disease
+Is there any evidence of infection or disease on this leaf?	
+Yes_Canker_disease
+Which citrus disease is suggested by these cues?	
+Greening_disease
+What can you infer about the disease from this image?	
+HealthyLeaf
+Do you observe any irregularities on this leaf due to a disease?	
+Yes_Melanose_disease
+Is the leaf's odd appearance due to a disease?	
+Yes_BlackSpot_disease
+What does this image convey about the disease?	
+Canker_disease
+Identify the disease shown in this image.	
+Greening_disease
+Is there a possibility of disease affecting this leaf's well-being?	
+No_HealthyLeaf
+Can you tell if a disease is causing this leaf to look different?	
+Yes_BlackSpot_disease
+Which disease do you see in this citrus leaf image?	
+Canker_disease
+What does the visual suggest about the disease?	
+Greening_disease
+whther the leaf in image is healthy or not?	
+Yes_HealthyLeaf
+What can you provide about this disease?	
+Melanose_disease
+Identify the disease from this image.	
+BlackSpot_disease
+What does this image suggest about the disease?	
+Canker_disease
+Can you see if this leaf has been attacked by a disease?	
+Yes_Canker_disease
+What conclusions can you make here?	
+BlackSpot_disease
+What disease matches these visuals?	
+Canker_disease
+Does this leaf's state suggest the presence of disease?	
+Yes_Greening_disease
+Is this leaf's oddness related to a disease?	
+No_HealthyLeaf
+Do you see any changes that might be due to a disease on this leaf?	
+Yes_Melanose_disease
+Is this leaf's condition due to a disease, in your opinion?	
+Yes_BlackSpot_disease
+What's your inference about this disease?	
+Canker_disease
+What disease matches these symptoms?	
+Greening_disease
+What disease type aligns here?	
+HealthyLeaf
+What's your understanding of this disease?	
+BlackSpot_disease
+Is there any disease affecting this leaf's health?	
+Yes_Canker_disease
+Is this leaf indicating any disease-related issues?	
+Yes_Greening_disease
+What can you infer about the disease from this image?	
+HealthyLeaf
+Is there any suggestion of disease affecting this leaf?	
+Yes_Melanose_disease
+What disease can be inferred from this picture?	
+BlackSpot_disease
+Is this leaf displaying any signs of disease?	
+Yes_Canker_disease
+Does this leaf seem affected by a disease, if any?	
+Yes_Greening_disease
+Is this leaf looking sick due to a disease?	
+No_HealthyLeaf
+Identify the disease shown in this image.	
+Melanose_disease
+Which citrus disease is suggested by these cues?	
+BlackSpot_disease
+Is there any visible impact of a disease on this leaf's well-being?	
+Yes_Canker_disease
+What does this image convey about the disease?	
+Greening_disease
+Is the leaf's appearance indicating a healthy leaf?	
+Yes_HealthyLeaf
+Do you detect any changes on this leaf due to disease?	
+Yes_BlackSpot_disease
+What disease is seen in this citrus leaf image?	
+Canker_disease
+What disease might these visual characteristics indicate?	
+BlackSpot_disease
+Is this leaf indicating any signs of being unwell from a disease?	
+Yes_Canker_disease
+What can you determine about this disease?	
+Greening_disease
+What disease might be causing this?	
+HealthyLeaf
+What do these features indicate in disease?	
+Melanose_disease
+What conclusions can you make here?	
+BlackSpot_disease
+What disease matches these visuals?	
+Canker_disease
+What's your inference about this disease?	
+Greening_disease
+is this a healthy leaf?	
+Yes_HealthyLeaf
+What does this image convey about the disease?	
+BlackSpot_disease
+What can you provide about this disease?	
+Canker_disease
+Identify the disease from this image.	
+Greening_disease
+What disease type aligns here?	
+HealthyLeaf
+What's your understanding of this disease?	
+Melanose_disease
+What's your interpretation of these symptoms?	
+BlackSpot_disease
+What's your inference about this disease?	
+Canker_disease
+What disease aligns with these cues?	
+Greening_disease
+What conclusions can you draw from this?	
+HealthyLeaf
+What disease aligns with this image?	
+Melanose_disease
+What does this image convey about the disease?	
+BlackSpot_disease
+What disease is seen in this citrus leaf image?	
+Canker_disease
+What does this image convey about the disease?	
+BlackSpot_disease
+Identify the disease shown in this image.	
+Canker_disease
+Which citrus disease is suggested by these cues?	
+Canker_disease
+What can you infer about the disease from this image?	
+HealthyLeaf
+What disease can be inferred from this picture?	
+Melanose_disease
+What can you deduce about the disease from this image?	
+BlackSpot_disease
+What conclusions can you draw about this disease?	
+Canker_disease
+What insights can you gather from this image?	
+Greening_disease
+Which disease is likely affecting the plant?	
+HealthyLeaf
+What does this image provide clues about?	
+Melanose_disease
+What disease is indicated by this image?	
+BlackSpot_disease
+What specific disease aligns with this image?	
+Canker_disease
+What's your interpretation of this image?	
+Greening_disease
+What disease does this image suggest?	
+HealthyLeaf
+What conclusions can you make from this image?	
+BlackSpot_disease
+What disease is being indicated here?	
+Canker_disease
+What disease matches these symptoms?	
+Greening_disease
+What stands out in this disease identification?	
+HealthyLeaf
+What does this image convey about the disease?	
+HealthyLeaf
+What's your understanding of this image?	
+Melanose_disease
+What disease can be inferred from this visual?	
+BlackSpot_disease
+What insights can you provide about this disease?	
+Canker_disease
+What conclusions can you draw from this image?	
+Greening_disease
+What's the disease related to this image?	
+HealthyLeaf
+What's your inference about this disease?	
+BlackSpot_disease
+What disease is causing these patterns?	
+Canker_disease
+What disease might these visual characteristics indicate?	
+Canker_disease
+What's your assessment of this disease?	
+HealthyLeaf
+What disease is common with these visuals?	
+Melanose_disease
+What's your inference about this disease?	
+BlackSpot_disease
+What disease matches these symptoms?
+Canker_disease
+Which disease do you see in this citrus leaf image?	
+Greening_disease
+What does the visual suggest about the disease?	
+HealthyLeaf
+Identify the disease presented in this image.	
+Melanose_disease
+What can you infer about this disease from the image?	
+BlackSpot_disease
+What conclusions can you draw from this visual?	
+Canker_disease
+What disease might these cues indicate?	
+Greening_disease
+Which disease aligns with this image?	
+HealthyLeaf
+What's your interpretation of this image's disease?	
+Melanose_disease
+What insights can you gather from this picture?	
+BlackSpot_disease
+Based on the image, what disease is likely?	
+Canker_disease
+What does this image convey about the disease type?	
+Greening_disease
+What's your understanding of this visual's disease?	
+HealthyLeaf
+What's the likely disease from this image?	
+Melanose_disease
+What can you deduce from this disease image?	
+BlackSpot_disease
+What's your assessment of the disease here?	
+Canker_disease
+What disease corresponds to these symptoms?	
+Greening_disease
+What can you determine about this disease?	
+HealthyLeaf
+What does the image suggest about the disease?	
+Melanose_disease
+Which disease matches these observed features?	
+BlackSpot_disease
+What's your inference about this disease's presence?	
+Canker_disease
+What's your understanding of this disease's type?	
+Greening_disease
+What disease aligns with these characteristics?	
+HealthyLeaf
+What can you conclude about the disease?	
+Melanose_disease
+What's your interpretation of this disease image?	
+BlackSpot_disease
+What's the likely disease causing this appearance?	
+Canker_disease
+What's the disease indicated by this image?	
+Greening_disease
+What's your inference regarding this disease?	
+HealthyLeaf
+What disease could be responsible for this?	
+Melanose_disease
+What conclusions can you make about this disease?	
+BlackSpot_disease
+What disease aligns with these visible signs?	
+Canker_disease
+What can you deduce about this disease's type?	
+Greening_disease
+Which disease can be inferred from this image?	
+HealthyLeaf
+What's your assessment of the disease's impact?	
+Melanose_disease
+What disease matches these visual cues?	
+BlackSpot_disease
+What's your understanding of this disease?	
+Canker_disease
+What disease might these symptoms suggest?	
+Greening_disease
+What can you infer about this disease from the image?	
+HealthyLeaf
+What's the likely disease behind these visuals?	
+Melanose_disease
+What's your interpretation of this disease's signs?	
+BlackSpot_disease
+What disease could be causing this appearance?	
+Canker_disease
+What does this image convey about the disease's nature?	
+Greening_disease
+What's your inference about this disease's identity?	
+HealthyLeaf
+What disease is indicated by these characteristics?
+Melanose_disease
+What conclusions can you draw from this image?	
+BlackSpot_disease
+Can you tell if a disease is altering this leaf's condition?	
+Yes_Canker_disease
+Is there a possibility that this leaf is unwell due to a disease?	
+Yes_Greening_disease
+Could you find any clues that suggest disease on this leaf?	
+No_HealthyLeaf
+Is this leaf's state possibly due to the presence of disease?	
+Yes_Melanose_disease
+Can you identify if a disease is impacting this leaf's state?	
+Yes_BlackSpot_disease
+Is there any sign that this leaf has been attacked by disease?
+Yes_Canker_disease
+Could this leaf's abnormality be a result of disease?	
+Yes_Greening_disease
+Can you confirm if this leaf is affected by a disease?	
+No_HealthyLeaf
+Is there any evidence of infection or disease on this leaf?	
+Yes_Melanose_disease
+Could you determine if a disease is responsible for this leaf's state?	
+Yes_BlackSpot_disease
+Is this leaf showing signs of disease or damage, in your opinion?	
+Yes_Canker_disease
+Can you tell if a disease is affecting this leaf's health?	
+Yes_Greening_disease
+Is there any possibility of a disease impacting this leaf?	
+No_HealthyLeaf
+Could this leaf's odd appearance be due to disease?	
+Yes_Melanose_disease
+Can you find out if this leaf's state is due to disease?	
+Yes_BlackSpot_disease
+Is this leaf possibly dealing with disease, according to you?	
+Yes_Canker_disease
+Can you see any signs of disease or trouble on this leaf?	
+Yes_Greening_disease
+Could this leaf's condition be due to disease, as per your view?	
+No_HealthyLeaf
+Is there any hint of disease affecting this leaf's appearance?	
+Yes_Melanose_disease
+Can you identify if this leaf is not well due to a disease?	
+Yes_Canker_disease
+Is the leaf showing any signs of distress due to a disease?	
+Yes_BlackSpot_disease
+Could you determine if a disease might be affecting this leaf?	
+Yes_Canker_disease
+Is there any presence of disease on this leaf, as you can see?	
+Yes_Greening_disease
+Can you find any signs that suggest a disease on this leaf?	
+No_HealthyLeaf
+Could you tell if a disease is affecting this leaf's condition?	
+Yes_Melanose_disease
+Is there any indication of a disease affecting this leaf's well-being?	
+Yes_BlackSpot_disease
+Can you spot any symptoms of a disease impacting this leaf?	
+Yes_Canker_disease
+Is this leaf showing any signs of illness due to a disease?	
+Yes_Canker_disease
+Can you determine if this leaf is facing any disease-related issues?	
+Yes_Greening_disease
+Is there any suggestion of a disease affecting this leaf's health?	
+No_HealthyLeaf
+Could you identify whether this leaf's state is linked to disease?	
+Yes_Melanose_disease
+Is this leaf's condition likely due to the presence of Greening disease?	
+No_BlackSpot_disease
+Can you see if this leaf might be unwell due to BlackSpot disease?	
+No_Canker_disease
+Is this leaf potentially dealing with Canker disease-related changes?	
+No_Greening_disease
+Could this leaf's altered appearance be because of a disease?	
+No_HealthyLeaf
+Can you figure out if Greening disease is impacting how this leaf looks?	
+No_Melanose_disease
+Is the leaf displaying any indications of distress due to Canker disease?	
+No_BlackSpot_disease
+Could this leaf's abnormal look be attributed to a disease?	
+Yes_Canker_disease
+Can you confirm if this leaf is affected by disease or not?	
+Yes_BlackSpot_disease
+Is there any sign of an infection or disease on this leaf?	
+Yes_Canker_disease
+Can you tell if a disease might be affecting this leaf's health?	
+Yes_BlackSpot_disease
+Does this leaf's state hint at the possibility of a disease?	
+Yes_Canker_disease
+Could you identify if this leaf's issue stems from a disease?	
+Yes_Greening_disease
+Is the leaf's appearance indicating a healthy leaf?	
+Yes_HealthyLeaf
+Can you spot any symptoms that might be linked to BlackSpot disease on this leaf?	
+No_Melanose_disease
+Can you tell if a disease is connected to the changes in this leaf's appearance?	
+Yes_BlackSpot_disease
+Is there any indication of disease affecting the well-being of this leaf?	
+Yes_Canker_disease
+Could this leaf's altered condition be due to a disease, do you think?	
+Yes_Greening_disease
+Is the leaf showing signs that might suggest it's unwell because of disease?	
+Yes_Greening_disease
+Can you see if there's any disease affecting this leaf?	
+Yes_BlackSpot_disease
+Is there a chance of disease impacting this leaf's health?	
+Yes_Canker_disease
+Could you determine if this leaf might be unwell due to a disease?	
+Yes_Greening_disease
+Is this leaf showing signs of being affected by disease?	
+Yes_Greening_disease
+Can you find any hints of disease on this leaf's appearance?	
+Yes_Melanose_disease
+Does this leaf look different because of some disease?	
+Yes_Melanose_disease
+Is there a possibility of disease affecting this leaf's condition?	
+Yes_BlackSpot_disease
+Could you spot any symptoms of disease on this leaf?	
+Yes_Canker_disease
+Is this leaf facing any Greening disease-related issues?	
+Yes_Greening_disease
+Can you tell if a disease might be changing this leaf's state?	
+Yes_Melanose_disease
+Is there any sign of illness on this leaf due to Canker disease?	
+No_Melanose_disease
+Could this leaf's problem be due to the presence of disease?	
+Yes_BlackSpot_disease
+Is this leaf not well because of Melanose disease?	
+No_BlackSpot_disease
+Can you determine if a disease is causing this leaf's odd appearance?	
+Yes_Canker_disease
+Is there a chance that disease is impacting this leaf's well-being?	
+Yes_Greening_disease
+Is this leaf possibly affected by Greening disease, in your opinion?	
+No_Melanose_disease
+Can you see if this leaf's issue could be linked to a disease?	
+Yes_Canker_disease
+Is there any hint that Canker  disease might be affecting this leaf?	
+No_BlackSpot_disease
+Could this leaf's state be related to the presence of disease?	
+Yes_Canker_disease
+Can you find out if this leaf's state is due to a disease?	
+Yes_Greening_disease
+Could you determine if this leaf might have caught a disease?	
+Yes_Melanose_disease
+Is this leaf showing signs of distress due to a disease?	
+Yes_BlackSpot_disease
+Can you tell if a disease is causing changes in this leaf?	
+Yes_Canker_disease
+Is there any evidence of disease affecting this leaf's health?	
+Yes_Greening_disease
+Could this leaf's appearance be because of some disease?	
+No_HealthyLeaf
+Is the leaf possibly dealing with disease, according to you?	
+Yes_Melanose_disease
+Can you confirm if there's any disease affecting this leaf?	
+Yes_Greening_disease
+Is there any indication of disease impacting this leaf's state?	
+Yes_BlackSpot_disease
+Could you identify if a disease is causing this leaf's problem?	
+Yes_BlackSpot_disease
+Is this leaf facing any signs of BlackSpot disease impact?	
+No_Canker_disease
+Can you see if this leaf has been attacked by a disease?	
+Yes_Canker_disease
+Is there a chance that disease might be responsible for this leaf's state?	
+Yes_Greening_disease
+Could you determine if this leaf's abnormality is linked to a disease?	
+No_HealthyLeaf
+Is this leaf looking different due to a disease, as per your view?	
+Yes_Melanose_disease
+Can you tell if a disease is causing this leaf's odd look?	
+Yes_BlackSpot_disease
+Is there any evidence of disease affecting this leaf's appearance?	
+Yes_Canker_disease
+Could this leaf's issue be due to the presence of disease, do you think?	
+Yes_Greening_disease
+whther the image is showing a healthy leaf or any sickness due to a disease?	
+Yes_HealthyLeaf
+Can you see if this leaf's state is because of a disease?	
+Yes_Melanose_disease
+Is there a chance of disease impacting this leaf's condition?	
+Yes_HealthyLeaf
+Could you determine if a disease is causing this leaf's change?	
+Yes_BlackSpot_disease
+Is this leaf facing any disease-related changes, in your view?	
+Yes_Canker_disease
+Can you tell if a disease might be affecting this leaf's look?	
+Yes_Canker_disease
+Is there any sign that this leaf's state is due to a disease?	
+Yes_Greening_disease
+Could this leaf's condition be connected to a disease?	
+Yes_Greening_disease
+Is this leaf showing any indications of being unwell due to disease?	
+No_HealthyLeaf
+Can you see if disease might be affecting this leaf's well-being?	
+Yes_Melanose_disease
+Could you identify if this leaf's issue is related to disease?	
+Yes_BlackSpot_disease
+Is this leaf facing any signs that suggest a disease?	
+Yes_Canker_disease
+Can you tell if a disease is influencing this leaf's health?	
+Yes_Greening_disease
+Is there any indication of disease affecting this leaf's look?	
+No_HealthyLeaf
+Could this leaf's state be because of some disease?	
+Yes_Melanose_disease
+Is this leaf showing signs of being affected by disease, in your opinion?	
+Yes_BlackSpot_disease
+Can you find any symptoms that might be linked to  disease on this leaf?	
+Yes_Canker_disease
+Is there a chance that disease could be altering this leaf's appearance?	
+Yes_Greening_disease
+Could you determine if a disease is connected to this leaf's oddness?	
+No_HealthyLeaf
+Is this leaf facing any disease-related troubles, as per your view?	
+Yes_Melanose_disease
+Can you see if a disease might be responsible for this leaf's odd state?	
+Yes_BlackSpot_disease
+Is there any evidence of disease impacting this leaf's look?	
+Yes_Canker_disease
+Could you tell if this leaf's appearance is due to the presence of disease?	
+Yes_Greening_disease
+Is this leaf possibly unwell due to the presence of disease?	
+No_HealthyLeaf
+Can you confirm if there's any disease affecting this leaf's well-being?	
+Yes_Melanose_disease
+Is there a chance that Melanose disease is impacting this leaf's condition?	
+No_BlackSpot_disease
+Could this leaf's state be linked to the presence of Greening disease?	
+No_Canker_disease
+Is this leaf showing any indications of illness due to disease?	
+Yes_BlackSpot_disease
+Can you determine if a disease might be affecting this leaf's state?	
+Yes_Greening_disease
+Is there any sign of disease affecting this leaf's appearance?	
+Yes_Greening_disease
+is this leaf healthy or diseased?	
+Yes_HealthyLeaf
+Is this leaf facing any disease-related concerns, according to you?	
+Yes_Melanose_disease
+Can you tell if a disease is causing this leaf's change in appearance?	
+Yes_BlackSpot_disease
+Is there any indication of disease impacting this leaf's health?	
+Yes_Canker_disease
+Could this leaf's appearance be due to some disease?	
+Yes_Greening_disease
+Is this leaf showing signs that might suggest a disease?	
+No_HealthyLeaf
+Can you see if a disease could be influencing this leaf's look?	
+Yes_Melanose_disease
+Is there a possibility of disease affecting this leaf's state?	
+Yes_BlackSpot_disease
+Could you identify any signs that suggest a disease on this leaf?	
+Yes_Canker_disease
+Is this leaf facing any disease-related troubles, do you think?	
+Yes_Greening_disease
+Can you tell if a disease might be responsible for this leaf's issue?	
+No_HealthyLeaf
+Is there any evidence of disease affecting this leaf's well-being?	
+Yes_Melanose_disease
+Could this leaf's appearance be related to a disease, in your opinion?	
+Yes_Canker_disease
+Is this leaf showing any indications of distress due to disease?	
+Yes_BlackSpot_disease
+Can you determine if a disease is connected to this leaf's oddness?	
+Yes_Canker_disease
+Is there a chance that disease is impacting this leaf's health?	
+Yes_Greening_disease
+Could you confirm if there's any disease affecting this leaf?	
+Yes_Greening_disease
+Is this leaf possibly dealing with disease-related issues, in your view?	
+No_HealthyLeaf
+Can you see if a disease might be causing this leaf's abnormal look?	
+Yes_Melanose_disease
+Is there any hint that disease might be influencing this leaf's condition?	
+Yes_Melanose_disease
+Could this leaf's state be due to the presence of disease, as you can see?	
+Yes_BlackSpot_disease
+Is this leaf showing signs of being unwell due to a disease?	
+Yes_Canker_disease
+Can you find any symptoms that might be due to disease on this leaf?	
+Yes_BlackSpot_disease
+Is there a possibility of disease affecting this leaf's appearance?	
+Yes_Canker_disease
+Could you tell if a disease is causing this leaf's unusual look?	
+Yes_Greening_disease
+Is there any indication of disease impacting this leaf's state, do you think?	
+Yes_Greening_disease
+Could this leaf's issue be connected to the presence of disease?	
+No_HealthyLeaf
+Is this leaf showing any signs that might suggest a disease?	
+No_HealthyLeaf
+Can you see if a disease might be influencing this leaf's health?	
+Yes_Melanose_disease
+Is there any evidence of disease affecting this leaf	
+Yes_BlackSpot_disease
+Can you observe any disease symptoms on this leaf in the picture?	
+Yes_Greening_disease
+Is the leaf's appearance indicating a disease?	
+No_HealthyLeaf
+Do you detect any changes on this leaf due to disease?	
+Yes_BlackSpot_disease
+Could there be any disease affecting this leaf's condition?	
+Yes_Canker_disease
+Can you confirm if this leaf is showing signs of disease?	
+Yes_BlackSpot_disease
+Is this leaf indicating any signs of being unwell from a disease?	
+Yes_Canker_disease
+Which disease do you see in this citrus leaf image?	
+Greening_disease
+What does the visual suggest about the disease?	
+HealthyLeaf
+Identify the disease presented in this image.	
+Melanose_disease
+What can you infer about this disease from the image?	
+BlackSpot_disease
+What conclusions can you draw from this visual?	
+Canker_disease
+What disease might these cues indicate?
+Greening_disease
+Which disease aligns with this image?	
+HealthyLeaf
+What's your interpretation of this image's disease?	
+BlackSpot_disease
+What insights can you gather from this picture?	
+Canker_disease
+Based on the image, what disease is likely?	
+Greening_disease
+What does this image convey about the disease type?	
+HealthyLeaf
+What's your understanding of this visual's disease?	
+Melanose_disease
+What's the likely disease from this image?	
+BlackSpot_disease
+What can you deduce from this disease image?	
+Canker_disease
+What's your assessment of the disease here?	
+Greening_disease
+What disease corresponds to these symptoms?	
+HealthyLeaf
+What can you determine about this disease?	
+Melanose_disease
+What does the image suggest about the disease?	
+BlackSpot_disease
+Which disease matches these observed features?	
+Canker_disease
+What's your inference about this disease's presence?	
+Canker_disease
+What's your understanding of this disease's type?	
+BlackSpot_disease
+What disease aligns with these characteristics?	
+Canker_disease
+What can you conclude about the disease?	
+Greening_disease
+What's your interpretation of this disease image?	
+HealthyLeaf
+What's the likely disease causing this appearance?	
+Melanose_disease
+What's the disease indicated by this image?	
+BlackSpot_disease
+What's your inference regarding this disease?	
+Canker_disease
+What disease could be responsible for this?	
+Greening_disease
+What conclusions can you make about this disease?	
+HealthyLeaf
+What disease aligns with these visible signs?	
+Melanose_disease
+What can you deduce about this disease's type?	
+BlackSpot_disease
+Which disease can be inferred from this image?	
+Canker_disease
+What's your assessment of the disease's impact?	
+Greening_disease
+What disease matches these visual cues?	
+HealthyLeaf
+What's your understanding of this disease?	
+BlackSpot_disease
+What disease might these symptoms suggest?	
+Canker_disease
+What can you infer about this disease from the image?	
+Greening_disease
+What's the likely disease behind these visuals?	
+HealthyLeaf
+What's your interpretation of this disease's signs?	
+HealthyLeaf
+What disease could be causing this appearance?	
+Melanose_disease
+What does this image convey about the disease's nature?	
+BlackSpot_disease
+What's your inference about this disease's identity?	
+Canker_disease
+What disease is indicated by these characteristics?	
+Greening_disease
+What conclusions can you draw from this image?	
+HealthyLeaf
+Which disease corresponds to this image's features?	
+BlackSpot_disease
+is there any disease affecting the leaf's appearance?a	
+Yes_Canker_disease
+What disease aligns with these visible features?	
+Greening_disease
+What's your assessment of this disease's influence?	
+HealthyLeaf
+What disease might be responsible for this?	
+Melanose_disease
+What can you deduce about this disease from the visual?	
+BlackSpot_disease
+Is there any sign that this leaf has been attacked by disease?	
+Yes_Canker_disease
+Could this leaf's abnormality be a result of disease?	
+Yes_Greening_disease
+Can you confirm if this leaf is affected by a disease?	
+No_HealthyLeaf
+Is there any evidence of infection or disease on this leaf?	
+Yes_Melanose_disease
+Could you determine if a disease is responsible for this leaf's state?	
+Yes_BlackSpot_disease
+Is this leaf showing signs of disease or damage, in your opinion?	
+Yes_Canker_disease
+Can you tell if a disease is affecting this leaf's health?	
+Yes_Greening_disease
+Is there any possibility of a disease impacting this leaf?	
+No_HealthyLeaf
+Could this leaf's odd appearance be due to disease?	
+Yes_Melanose_disease
+Can you find out if this leaf's state is due to disease?	
+Yes_BlackSpot_disease
+Is this leaf possibly dealing with disease, according to you?	
+Yes_Canker_disease
+Can you see any signs of disease or trouble on this leaf?	
+Yes_Greening_disease
+Could this leaf's condition be due to disease, as per your view?	
+No_HealthyLeaf
+Is there any hint of disease affecting this leaf's appearance?	
+Yes_Melanose_disease
+Can you identify if this leaf is not well due to a disease?	
+Canker_disease
+Is the leaf showing any signs of distress due to a disease?	
+Yes_BlackSpot_disease
+What disease is apparent in this image of the citrus leaf?	
+Canker_disease
+What implications can be drawn from the visuals regarding the disease?	
+Greening_disease
+whether the leaf symptoms belong to a healthy leaf or Greening disease?	
+HealthyLeaf
+What can you deduce about this disease by examining the image?	
+BlackSpot_disease
+Can you spot any symptoms of a disease impacting this leaf?	
+Yes_Canker_disease
+Is this leaf showing any signs of illness due to a disease?	
+Yes_Canker_disease
+Can you determine if this leaf is facing any disease-related issues?	
+Yes_Greening_disease
+Is there any suggestion of a disease affecting this leaf's health?	
+No_HealthyLeaf
+Is this leaf's condition likely due to the presence of disease?	
+Yes_BlackSpot_disease
+Can you see if this leaf might be unwell due to some disease?	
+Yes_Canker_disease
+Is this leaf potentially dealing with disease-related changes?	
+Yes_Greening_disease
+Could this leaf's altered appearance be because of a disease?	
+No_HealthyLeaf
+Is the leaf displaying any indications of distress due to disease?	
+Yes_BlackSpot_disease
+Could this leaf's abnormal look be attributed to a disease?	
+Yes_Canker_disease
+Can you confirm if this leaf is affected by disease or not?	
+Yes_BlackSpot_disease
+Is there any sign of an infection or disease on this leaf?	
+Yes_Canker_disease
+Can you tell if a disease might be affecting this leaf's health?	
+Yes_BlackSpot_disease
+Does this leaf's state hint at the possibility of a disease?	
+Yes_Canker_disease
+Could you identify if this leaf's issue stems from a disease?	
+Yes_Greening_disease
+Is this leaf showing any signs of disease impact, according to you?	
+No_HealthyLeaf
+Can you tell if a disease is connected to the changes in this leaf's appearance?	
+Yes_BlackSpot_disease
+Is there any indication of disease affecting the well-being of this leaf?	
+Yes_Canker_disease
+Could this leaf's altered condition be due to a disease, do you think?	
+Yes_Greening_disease
+Is this leaf possibly dealing with disease-related issues, in your view?	
+No_HealthyLeaf
+Is the leaf showing signs that might suggest it's unwell because of disease?	
+Yes_Greening_disease
+Is there a chance of disease impacting this leaf's condition?	
+No_HealthyLeaf
+Could you determine if a disease is causing this leaf's change?	
+Yes_BlackSpot_disease
+Is this leaf facing any disease-related changes, in your view?	
+Yes_Canker_disease
+Can you tell if a disease might be affecting this leaf's look?	
+Yes_Canker_disease
+Is there any sign that this leaf's state is due to a disease?	
+Yes_Greening_disease
+Could this leaf's condition be connected to a disease?	
+Yes_Greening_disease
+What observations can be made about this disease?	
+HealthyLeaf
+Could this leaf's abnormality be due to a disease?	
+Yes_Greening_disease
+Could you identify if this leaf's issue is related to disease?	
+Yes_BlackSpot_disease
+What observations can be made about this disease?	
+Greening_disease
+Is this leaf facing any signs that suggest a disease?	
+Yes_Canker_disease
+Can you tell if a disease is influencing this leaf's health?	
+Yes_Greening_disease
+Is there any indication of disease affecting this leaf's look?	
+No_HealthyLeaf
+is there any disease on this leaf?	
+Yes_Greening_disease
+Is this leaf showing signs of being affected by disease, in your opinion?	
+Yes_BlackSpot_disease
+Can you identify if the leaf's health is impacted by a disease?	
+Yes_Greening_disease
+Can you find any symptoms that might be linked to disease on this leaf?	
+Yes_Canker_disease
+Is there a chance that disease could be altering this leaf's appearance?	
+Yes_Greening_disease
+Could you determine if a disease is connected to this leaf's oddness?	
+No_HealthyLeaf
+Can you identify if the leaf's health is impacted by a disease?	
+Yes_Greening_disease
+Can you see if a disease might be responsible for this leaf's odd state?	
+Yes_BlackSpot_disease
+What can be concluded about this disease?	
+Greening_disease
+How do you interpret the disease portrayed in this image?	
+Canker_disease
+What likely disease is responsible for these appearances?	
+Greening_disease
+Is this leaf possibly unwell due to the presence of disease?	
+No_HealthyLeaf
+Can you see any signs of distress on this leaf because of a disease?	
+Yes_Greening_disease
+Is there a chance that disease is impacting this leaf's condition?	
+Yes_BlackSpot_disease
+Can you confirm if this leaf is affected by disease or not?	
+Yes_Greening_disease
+Could this leaf's state be linked to the presence of disease?	
+Yes_Canker_disease
+Can you identify if the leaf's health is impacted by a disease?	
+Yes_Greening_disease
+Is this leaf showing any indications of illness due to disease?	
+Yes_BlackSpot_disease
+Can you determine if a disease might be affecting this leaf's state?	
+Yes_Greening_disease
+Is there any sign of disease affecting this leaf's appearance?	
+Yes_Greening_disease
+Could you find any symptoms of disease on this leaf's condition?	
+No_HealthyLeaf
+What observations can be made about this disease?	
+Greening_disease
+Can you tell if a disease is causing this leaf's change in appearance?	
+Yes_BlackSpot_disease
+What observations can be made about this disease?	
+Greening_disease
+Is there any indication of disease impacting this leaf's health?	
+Yes_Canker_disease
+Could this leaf's appearance be due to some disease?	
+Yes_Greening_disease
+Is this leaf showing signs that might suggest a disease?	
+No_HealthyLeaf
+Can you see any signs of distress on this leaf because of a disease?	
+Yes_Greening_disease
+Is there a possibility of disease affecting this leaf's state?	
+Yes_BlackSpot_disease
+Is this leaf facing any disease-related issues?	
+Yes_Greening_disease
+Could you identify any signs that suggest a disease on this leaf?	
+Yes_Canker_disease
+Is this leaf facing any disease-related troubles, do you think?	
+Yes_Greening_disease
+Can you tell if a disease might be responsible for this leaf's issue?	
+No_HealthyLeaf
+Can you identify if the leaf's health is impacted by a disease?	
+Yes_Greening_disease
+Could this leaf's appearance be related to a disease, in your opinion?	
+Yes_Canker_disease
+Could this leaf's abnormality be due to a disease?	
+Yes_Greening_disease
+Is this leaf showing any indications of distress due to disease?	
+Yes_BlackSpot_disease
+Can you find any hints of disease on this leaf?	
+Yes_Greening_disease
+Can you determine if a disease is connected to this leaf's oddness?	
+Yes_Canker_disease
+Is there a chance that disease is impacting this leaf's health?	
+Yes_Greening_disease
+Could you confirm if there's any disease affecting this leaf?	
+Yes_Greening_disease
+What conclusions can be drawn regarding this disease?	
+HealthyLeaf
+What does the image indicate about the disease?	
+Greening_disease
+Could this leaf's state be due to the presence of disease, as you can see?	
+Yes_BlackSpot_disease
+Can you confirm if this leaf is affected by disease or not?	
+Yes_Greening_disease
+What conclusions can be drawn regarding this disease?	
+Canker_disease
+What does the image indicate about the disease?	
+Greening_disease
+Can you find any symptoms that might be due to disease on this leaf?	
+Yes_BlackSpot_disease
+Does this leaf's state suggest the presence of disease?	
+Yes_Greening_disease
+Is there a possibility of disease affecting this leaf's appearance?	
+Yes_Canker_disease
+Could you tell if a disease is causing this leaf's unusual look?	
+Yes_Greening_disease
+Is there any indication of disease impacting this leaf's state, do you think?	
+Yes_Greening_disease
+Could this leaf's issue be connected to the presence of disease?	
+No_HealthyLeaf
+Does this leaf's condition appear to be affected by a disease?	
+Yes_Greening_disease
+Is this leaf showing any signs that might suggest a disease?	
+No_HealthyLeaf
+Is this leaf facing any disease-related issues?	
+Yes_Greening_disease
+Is there any evidence of disease affecting this leaf	
+Yes_BlackSpot_disease
+Can you observe any disease symptoms on this leaf in the picture?	
+Yes_Greening_disease
+Is the leaf's appearance indicating a disease?	
+No_HealthyLeaf
+Can you determine if this leaf is facing any disease-related issues?	
+Yes_Greening_disease
+Do you detect any changes on this leaf due to disease?	
+Yes_BlackSpot_disease
+What does the image suggest about the disease's characteristics?	
+Greening_disease
+What can be inferred about this disease's identity from the visual?	
+BlackSpot_disease
+What connections can be made between these observed attributes and a specific disease?	
+Greening_disease
+Could you determine if this leaf might be unwell due to a disease?	
+Yes_Canker_disease
+Is this leaf showing signs of being affected by disease?	
+Yes_Greening_disease
+Can you find any hints of Canker disease on this leaf's appearance?	
+No_BlackSpot_disease
+Does this leaf look different because of some disease?	
+Yes_Greening_disease
+Is there a possibility of Greening disease affecting this leaf's condition?	
+No_Canker_disease
+What do these symptoms possibly suggest about the disease?	
+Greening_disease
+What can you infer about the disease from the image?	
+BlackSpot_disease
+What disease might be responsible for these visual cues?	
+Greening_disease
+Is there any sign of illness on this leaf due to a disease?	
+Yes_Canker_disease
+Could this leaf's problem be due to the presence of disease?	
+Yes_BlackSpot_disease
+Is this leaf not well because of Melanose disease?	
+No_Greening_disease
+Can you determine if a disease is causing this leaf's odd appearance?	
+Yes_Canker_disease
+Is there a chance that disease is impacting this leaf's well-being?	
+Yes_Greening_disease
+Could you identify any signs that suggest a disease on this leaf?	
+Yes_BlackSpot_disease
+Is this leaf possibly affected by disease, in your opinion?	
+Yes_Greening_disease
+Can you see if this leaf's issue could be linked to a disease?	
+Yes_Canker_disease
+Is there any hint that disease might be affecting this leaf?	
+Yes_BlackSpot_disease
+Could this leaf's state be related to the presence of disease?	
+Yes_Greening_disease
+Can you find out if this leaf's state is due to a disease?	
+Yes_Canker_disease
+Is there a possibility of disease influencing this leaf's look?	
+Yes_Greening_disease
+Could you determine if this leaf might have caught a disease?	
+Yes_BlackSpot_disease
+What likely disease is responsible for these appearances?	
+Greening_disease
+What disease is being indicated by this image?	
+Canker_disease
+What can be inferred about this disease from the image?	
+Greening_disease
+Could this leaf's appearance be because of some disease?	
+Yes_BlackSpot_disease
+Is the leaf possibly dealing with disease, according to you?	
+Yes_Greening_disease
+Can you confirm if there's any disease affecting this leaf?	
+Yes_Canker_disease
+Is there any indication of disease impacting this leaf's state?	
+Yes_Greening_disease
+Is the leaf's appearance indicative of Greening, Canker, or Black Spot?	
+BlackSpot_disease
+Which disease's characteristics are visible on the leaf: Greening, Canker, or Black Spot?	
+Greening_disease
+Is the leaf's condition more in line with Greening, Canker, or Black Spot?	
+Greening_disease
+Is the observed leaf damage likely due to Greening, Canker, or Black Spot?	
+Canker_disease
+Does the leaf seem to be impacted by Greening, Canker, or Black Spot?	
+Greening_disease
+What disease might be causing the visible symptoms on the leaf: Greening, Canker, or Black Spot?	
+BlackSpot_disease
+Is the leaf's appearance suggestive of Greening or Canker disease?	
+Greening_disease
+Which disease's symptoms are more evident on the leaf: Greening or Canker?	
+Canker_disease
+Is the leaf's appearance more aligned with Greening or Black Spot disease?	
+Greening_disease
+Which disease's features are more evident on the leaf: Greening or Black Spot?	
+BlackSpot_disease
+Is the leaf displaying characteristics of Greening or Canker?	
+Greening_disease
+Is the observed leaf damage consistent with Greening or Canker?	
+Canker_disease
+Is the observed leaf damage more consistent with Greening or Black Spot?	
+BlackSpot_disease
+Does the leaf seem to be impacted more by Greening or Black Spot disease?	
+Greening_disease
+Is the leaf's state more in line with Greening or Canker?	
+Canker_disease
+Is the leaf showing signs more of Greening or Canker?	
+Greening_disease
+Does the leaf seem to be impacted more by Greening or Black Spot disease?	
+BlackSpot_disease
+Is the leaf's situation likely due more to Greening or Black Spot?	
+Greening_disease
+Is the leaf's condition more in line with Greening, Canker, or Black Spot?	
+Canker_disease
+Is the observed leaf damage more likely due to Greening, Canker, or Black Spot?	
+BlackSpot_disease
+Does the leaf seem to be impacted more by Greening, Canker, or Black Spot?	
+Greening_disease
+Is the leaf's appearance predominantly indicative of Canker or Black Spot?	
+Canker_disease
+Which disease's characteristics are more visible on the leaf: Greening or Black Spot?	
+Greening_disease
+Is the leaf's condition more in line with  Canker or Black Spot?	
+BlackSpot_disease
+Is the observed leaf damage more likely due to Greening or Canker?	
+Greening_disease
+Does the leaf seem to be impacted more by  Canker or Black Spot?	
+Canker_disease
+What disease might be predominantly causing the visible symptoms on the leaf: Greening or Black Spot?	
+Greening_disease
+Is the leaf's state more consistent with Greening or Black Spot?	
+BlackSpot_disease
+Is the leaf showing signs more of Greening or Black Spot?	
+Greening_disease
+Is the observed leaf damage consistent with Greening or Canker?	
+Canker_disease
+Does the leaf seem to be impacted more by Greening or Canker disease?	
+Greening_disease
+Is the leaf's situation more indicative of Greening or Black Spot?	
+BlackSpot_disease
+Does the leaf seem to be impacted more by Greening or Canker disease?	
+Greening_disease
+Is the leaf's appearance more aligned with Greening or Black Spot disease?	
+Greening_disease
+Which disease's features are evident on the leaf: Greening or Black Spot?	
+BlackSpot_disease
+Is the observed leaf damage more consistent with Greening or Black Spot?	
+Greening_disease
+Is the leaf's appearance more suggestive of Greening or Canker disease?	
+Canker_disease
+Which disease's symptoms are evident on the leaf: Greening or Canker?
+Greening_disease
+Is the leaf's appearance more aligned with Greening or Black Spot disease?	
+BlackSpot_disease
+Which disease's features are evident on the leaf: Greening or Black Spot?	
+Greening_disease
+Is the observed leaf damage more consistent with Canker or Black Spot?	
+Canker_disease
+Does the leaf seem to be impacted by Greening or Black Spot disease?	
+Greening_disease
+Is the leaf's situation likely due to Greening or Black Spot?	
+BlackSpot_disease
+Is the leaf likely suffering from Greening or Black Spot?	
+Greening_disease
+Is the leaf's appearance more suggestive of Greening or Canker?	
+Canker_disease
+Is the leaf showing signs of Canker or Greening?	
+Greening_disease
+Is the observed leaf damage more consistent with Canker or Black Spot?	
+BlackSpot_disease
+Is the leaf showing signs of Canker or Greening?	
+Greening_disease
+What disease could be causing the visible symptoms on the leaf: Canker or Black Spot?	
+Canker_disease
+Is the leaf's situation more consistent with Canker or Greening?	
+Greening_disease
+Does the leaf seem to be impacted by Canker or Black Spot disease?	
+BlackSpot_disease
+Is the leaf likely impacted by Canker or Greening disease?
+Greening_disease
+Is the leaf's appearance suggestive of Canker or Black Spot?	
+Canker_disease
+Is the leaf showing signs of Canker or Greening?	
+Greening_disease
+Based on the leaf's condition, is it more likely to have Canker or Black Spot?	
+BlackSpot_disease
+Is the leaf exhibiting signs of Canker or Greening disease?	
+Greening_disease
+Is the leaf's situation in line with the characteristics of Canker or Black Spot?	
+Canker_disease
+Is the leaf likely impacted by Canker or Greening disease?	
+Greening_disease
+Is the leaf likely suffering from Canker or Black Spot?	
+BlackSpot_disease
+Is the leaf's situation more consistent with Canker or Greening?	
+Greening_disease
+Does the leaf show indications of Canker or Black Spot?	
+Canker_disease
+Is the leaf showing signs of Greening or Black Spot?	
+Greening_disease
+Does the leaf's appearance resemble characteristics of Greening or Black Spot disease?	
+BlackSpot_disease
+Is the leaf's state consistent with the characteristics of Greening or Black Spot?	
+Greening_disease
+Is the leaf showing signs of Canker or Greening?	
+Canker_disease
+Is the leaf's appearance more indicative of Greening or Black Spot?	
+Greening_disease
+Which disease's features are evident on the leaf: Greening or Black Spot?	
+BlackSpot_disease
+Is the leaf likely suffering from Greening or Black Spot?	
+Greening_disease
+Based on the leaf's condition, is it more likely to have Canker or Greening?	
+Canker_disease
+Is the leaf's situation likely due to Greening or Black Spot?	
+Greening_disease
+Is the leaf likely suffering from Greening or Black Spot?	
+BlackSpot_disease
+Is the observed leaf damage suggestive of Greening or Black Spot?	
+Greening_disease
+Which disease's symptoms are visible on the leaf: Canker or Greening?
+Canker_disease
+Is the leaf's condition more in line with Greening or Black Spot?	
+Greening_disease
+Which disease's features are evident on the leaf: Greening or Black Spot?	
+BlackSpot_disease
+Which disease's features are evident on the leaf: Greening or Black Spot?	
+Greening_disease
+Is the leaf's situation more consistent with Canker or Greening?	
+Canker_disease
+What disease might be causing the visible symptoms on the leaf: Canker or Greening?	
+Greening_disease
+Does the leaf's appearance resemble characteristics of Greening or Black Spot disease?	
+BlackSpot_disease
+Does the leaf's appearance resemble characteristics of Greening or Black Spot disease?	
+Greening_disease
+What disease might be causing the visible symptoms on the leaf: Canker or Greening?	
+Canker_disease
+Does the leaf's appearance resemble characteristics of Greening or Black Spot disease?	
+Greening_disease
